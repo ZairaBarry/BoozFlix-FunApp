@@ -34,7 +34,7 @@ Drinks Section:
 When the user choose the ingredient from the dropdown menu,
 Then he is presented with the list of drinks with receipes and the images.
 
-[Project_1_BoozFlix] (https://felixbor.github.io/BoozFlix-FunApp/)
+[Project_1_BoozFlix] (https://zairabarry.github.io/BoozFlix-FunApp/)
 
 ## Collaborators:
 
